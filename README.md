@@ -10,6 +10,15 @@ Use the package manager [TASM](https://techapple.net/2013/01/tasm-windows-7-wind
 ```
 Download TASM from above Link. ↑
 ```
+## How to run the Program
+
+### `> edit filename.asm`
+
+### `> tasm filename.asm`
+
+### `> tlink filename.obj` 
+
+### `> td filename.exe`
 
 ## Programs List
 
