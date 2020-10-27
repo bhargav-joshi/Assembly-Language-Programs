@@ -30,6 +30,7 @@ Ascending Order
 Block Copy(DS to DS using string instruction)
 Block Copy(DS to DS)
 Descending Order of the given array
+Add2Number (Mixed Language Program)
 ```
 
 ## Contributing
