@@ -23,14 +23,29 @@ Download TASM from above Link. ↑
 ## Programs List
 
 ```assembly
-16-bit Division
-16-bit Multiplication
-16-bit Subtraction
-Ascending Order
-Block Copy(DS to DS using string instruction)
-Block Copy(DS to DS)
-Descending Order of the given array
-Add2Number (Mixed Language Program)
+16-bit Addition.ASM
+16-bit Division.ASM
+16-bit Multiplication.ASM
+16-bit Subtraction.ASM
+Add2Number.C (Mixed Language Program)
+Ascending Order.ASM
+Block Copy(DS to DS using string instruction).ASM
+Block Copy(DS to DS).ASM
+Block Copy(DS to ES).ASM
+Compare String.ASM
+Convert ASCII to BCD.ASM
+Convert ASCII to HEX.ASM
+Convert BCD to ASCII.ASM
+Convert HEX to ASCII.ASM
+Descending Order of the given array.ASM
+Display String.ASM
+FREQ.C
+LOWERCASE.C
+Largest Number.ASM
+PALI.C
+Smallest Number.ASM
+UPPERCASE.C
+
 ```
 
 ## Contributing
